@@ -1,4 +1,4 @@
-import random
+import time
 import telepot
 
 Token = telepot.Bot("Inserisci il token qui")
