@@ -1,3 +1,5 @@
+[![Telegram](https://img.shields.io/badge/Telegram-%40Stefifox-orange.svg)](https://t.me/TwigFox)
+[![Telegram](https://img.shields.io/badge/Telegram-%40StefifoxApps-orange.svg)](https://t.me/StefifoxChannell)
 # Tutorial
 Tutorial For <a href="https://t.me/StefifoxChannel">@StefifoxChannel</a>
 
