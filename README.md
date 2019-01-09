@@ -6,7 +6,8 @@ Tutorial For <a href="https://t.me/StefifoxChannel">@StefifoxChannel</a>
 # Why this Project?
 I created this project for help my channel subscriber and not to learnt java, python and android develop
 
-# What is your another project?
+# What is your another project? [![WebSite](https://img.shields.io/badge/WebSite-www.aphorismos.app-green.svg)](https://www.aphorismos.app)
+
 I work for android aphorismos application, the <a href="https://aruba.it">aphorismos.app</a> website is hosted by <a href="https://aruba.it">Aruba.it</a> and I wrote it using HTML and CSS.
 
 If you want download app: 
